@@ -1,0 +1,3 @@
+[submodule "mySubModel1"]
+	path = mySubModel1
+	url = https://github.com/ahtyamchic/mySubmodule1.git
